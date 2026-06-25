@@ -1,8 +1,5 @@
 # Hi there I'm Oscar Urzua👋
 
-<!--
-**oscaru9/oscarU9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Quantum Researcher| Brindind Theorical physics and computational code. I Specialice in quantum computation and quantum information, with research experience in quantum machine learning, quantum error mitigation, and entanglement.Having recently completed my postgraduate research, I am actively looking for **PhD Positions** or **Industry R&D roles** globally.
 
 ---
@@ -33,3 +30,8 @@
 ## 📨 Let's Connect!
 * **Email:** oscartaprof@gmail.com
 * **Location:** Open to International Relocation (Europe / North America / Remote)
+
+
+<!--
+**oscaru9/oscarU9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
