@@ -20,7 +20,7 @@
 ---
 
 ## 🛠️ Tech Stack & Quantum Tooling
-* **Languages:** Python, C, Julia, Bash
+* **Programing:** Python, C, Julia, Bash
 * **Quantum Ecosystem:** Qiskit
 * **Scientific Computing:** NumPy, SciPy, Pandas, SymPy
 * **Developer Tools:** Git / GitHub, Linux, Jupyter Notebooks, Unix
