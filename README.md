@@ -28,7 +28,7 @@
 ---
 
 ## 📨 Let's Connect!
-* **Email:** oscartaprof@gmail.com
+* **Email:** oscartapia1297f@gmail.com
 * **Location:** Open to International Relocation (Europe / North America / Remote)
 
 
