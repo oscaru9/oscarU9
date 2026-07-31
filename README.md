@@ -1,43 +1,41 @@
 # Hi there, I'm Oscar Urzua 👋
 
-### Computational Quantum Physics Researcher
-*Bridging theoretical physics and high-performance computational code.*
+### Computational & Theoretical Quantum Physics Researcher
+*Bridging theoretical physics, AI/QML, and real-world experiments.*
 
-I specialize in **quantum information, open quantum systems, and quantum error mitigation (QEM)**. Having recently completed my Master's research, I am actively seeking **PhD Positions** or **Quantum Hardware/Software R&D roles** globally.
+I work on **open quantum systems, spin dynamics, quantum error mitigation, and quantum machine learning**. After completing my Master's degree in physics, I am looking for **PhD positions** or **R&D roles** worldwide.
 
----
-
-## 🔬 Research Focus & Technical Accomplishments
-
-### 💻 Numerical & Computational Physics (What I've Built)
-* **Custom Quantum Engine in Julia:** Built a state-vector simulator with native Kraus operator noise channels (Amplitude Damping, Depolarizing, Phase Flip) and Hilbert space operators for $N=8$ spin chains.
-* **Probabilistic Error Cancellation (PEC):** Developed custom tools to evaluate exact sampling overheads $\gamma^2$, quasiprobability decompositions, and scaling limits on multi-qubit benchmarks (e.g., Swap Test).
-* **Entanglement Classification:** Applied phase-space representations (Husimi $Q$ functions) to classify multipartite entanglement across 2, 4, 6, and 8-qubit subsystems.
-* **Quantum Machine Learning (QML):** Implemented ML architectures to reconstruct unknown Hamiltonian coefficients from system dynamics and observable data.
-
-### 🎯 Targeted PhD & Research Directions
-* **Noise-Aware Quantum Algorithms:** Developing classical simulation frameworks to evaluate near-term algorithms under realistic decoherence models.
-* **QEM & Hardware Co-Design:** Intersecting pulse control, error mitigation, and algorithmic structures to optimize fidelity on NISQ hardware and early fault-tolerant devices.
-* **Quantum/Classical ML Synergy:** Leveraging ML techniques to optimize quantum error mitigation strategies and Hamiltonian learning.
+I love building custom computational tools and AI/ML algorithms to model complex physical systems. My main goal is to join a research group where I can work on fundamental theory while testing and validating my numerical models against real-world physical systems and hardware.
 
 ---
 
-## 🛠️ Technical Stack & Tooling
+## 🔬 What I Work On & What I've Built
 
-| Domain | Languages & Tools |
-| :--- | :--- |
-| **Languages** | Julia, Python, C, Bash |
-| **Quantum Frameworks** | Qiskit, Custom Julia Quantum Simulation Libraries |
-| **Scientific Computing** | NumPy, SciPy, Pandas, SymPy, LinearAlgebra.jl |
-| **DevOps & Environment** | Linux/Unix, Git/GitHub, Jupyter Notebooks, Markdown |
+### 💻 Simulation & Research Projects
+* **Custom Julia Quantum & Noise Simulator:** Built a state-vector simulator in Julia from scratch to model open system dynamics through noise channels (Amplitude Damping, Depolarizing) and $N=8$ spin chain evolution using Suzuki-Trotter formulas.
+* **Quantum Error Mitigation (PEC):** Implemented Probabilistic Error Cancellation (PEC) tools in Julia to study efficiency of the method in toy models and the Swap-test algorithm.
+* **Multipartite Entanglement & Phase-Space Methods:** Used Husimi $Q$ phase-space functions to analyze and classify multipartite entanglement across 2, 4, 6, and 8-qubit subsystems.
+* **Hamiltonian Learning via AI/QML:** Applied machine learning techniques to reconstruct unknown Hamiltonian coefficients from physical dynamic data.
+
+### 🎯 Research Interests for My PhD
+* **Theory-to-Experiment Connection:** Designing clean simulation tools and theoretical frameworks that can be directly benchmarked against real physical hardware and experimental data.
+* **Quantum Machine Learning & AI for Physics:** Using machine learning and optimization algorithms to learn physical parameters, mitigate noise, and accelerate quantum simulations.
+* **Open Quantum Systems & Complex Dynamics:** Modeling non-equilibrium dynamics, dissipation, and environmental interactions in physical devices.
 
 ---
 
-## 🌐 Connect & Research Links
+## 🛠️ Tech Stack & Tools
 
-* 📧 **Email:** [oscartapia1297@gmail.com](mailto:oscartapia1297@gmail.com)
-* 📍 **Location:** Guadalajara, Mexico *(Open to relocation across Europe, North America, and worldwide)*
+* **Languages:** Julia, Python, C, Bash
+* **Physics, AI & Numerics:** Custom Julia Physics Libraries, Qiskit, NumPy, SciPy, PyTorch/Scikit-Learn, SymPy
+* **Developer Workflow:** Linux/Unix, Git & GitHub, Jupyter, LaTeX
 
+---
+
+## 📨 Let's Connect!
+
+* **Email:** [oscartapia1297@gmail.com](mailto:oscartapia1297@gmail.com)
+* **Location:** Guadalajara, Mexico *(Fully open to relocate worldwide for PhD / Research positions)*
 <!--
 **oscaru9/oscarU9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
